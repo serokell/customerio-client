@@ -8,9 +8,7 @@
 
 ## Reporting Issues
 
-[//]: # (Add proper project)
-[//]: # (Can be a github link)
-Please [open an issue](https://issues.serokell.io/newIssue?project=KEK)
+Please [open an issue](https://github.com/serokell/customer-client/issues)
 if you find a bug or have a feature request.
 Note: you need to login (e. g. using your GitHub account) first.
 Before submitting a bug report or feature request, check to make sure it hasn't already been submitted
@@ -28,16 +26,6 @@ Our pull request template contains a [checklist](.github/pull_request_template.m
 Please read it before you start contributing and make sure your contributions adhere to this checklist.
 
 
-[//]: # (Describe some useful for developers things present in this repository)
-[//]: # (For example, you can have a Makefile)
-## Makefile
-
-We have a [Makefile](/Makefile) which provides shortcuts for the most
-common developers' activities, like building with flags suitable for
-development, testing, applying `stylish-haskell` and `hlint`, building
-Haddock documentation.
-
-
 ## Legal
 
 We want to make sure that our projects come with correct licensing information
@@ -52,7 +40,7 @@ but, basically, it all boils down to the following:
     ```haskell
     -- SPDX-FileCopyrightText: 2020 Serokell <https://serokell.io/>
     --
-    -- SPDX-License-Identifier: LicenseRef-ReplaceMe
+    -- SPDX-License-Identifier: Apache-2.0
     ```
 
     (This is an example for Haskell; adapt it as needed for other languages.)
